@@ -1,0 +1,11 @@
+Rank,ACE2_Residue,RBD_Residue,Electrostatic_Energy,VDW_Energy,Total_Energy,Favorable,Interaction_Type,Strength
+1,LYS31,GLN493,1.198,-0.046,1.151,No,Mixed Weak,Moderate
+2,GLN42,GLN498,0.958,-0.011,0.947,No,Mixed Weak,Weak
+3,ASP38,GLY446,0.536,-0.000,0.536,No,Mixed Weak,Weak
+4,GLU35,LEU492,0.530,-0.000,0.530,No,Mixed Weak,Weak
+5,ARG357,THR500,0.461,-0.000,0.461,No,Mixed Weak,Weak
+6,GLU329,ASN439,-0.400,-0.000,-0.400,Yes,Mixed Weak,Weak
+7,SER349,TYR449,-0.381,-0.000,-0.381,Yes,Mixed Weak,Weak
+8,TYR41,GLN498,0.349,-0.004,0.345,No,Mixed Weak,Weak
+9,SER349,GLN493,-0.326,-0.000,-0.326,Yes,Mixed Weak,Weak
+10,SER349,ASN450,0.324,-0.000,0.324,No,Mixed Weak,Weak
